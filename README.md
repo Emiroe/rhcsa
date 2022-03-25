@@ -1,6 +1,6 @@
 # Red Hat Certified System Administrator (RHCSA)
 
-These are my notes that I have written during my preperation for RHCSA. 
+These are my notes that I have written during my preparation for RHCSA. 
 
 ## Skills
 
@@ -15,3 +15,11 @@ A Red Hat® Certified System Administrator (RHCSA) is able to perform the follow
 * Manage users and groups
 * Manage security, including basic firewall and SELinux configuration
 * Perform basic container management 
+
+## Inspiration and Sources
+
+In this section I will list the books, repositories, videos, etc that I have used during my preparation for RHCSA. 
+
+* [RHCSA Practice Questions](https://github.com/chlebik/rhcsa-practice-questions/tree/master/questions)
+* [Linux RedHat Certified Administrator course on Udemy](https://axiell.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/)
+
