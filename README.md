@@ -21,5 +21,5 @@ A Red Hat® Certified System Administrator (RHCSA) is able to perform the follow
 In this section I will list the books, repositories, videos, etc that I have used during my preparation for RHCSA. 
 
 * [RHCSA Practice Questions](https://github.com/chlebik/rhcsa-practice-questions/tree/master/questions)
-* [Linux RedHat Certified Administrator course on Udemy](https://axiell.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/)
+* [Linux RedHat Certified Administrator Course on Udemy](https://axiell.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/)
 
