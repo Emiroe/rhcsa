@@ -22,4 +22,4 @@ In this section I will list the books, repositories, videos, etc that I have use
 
 * [RHCSA Practice Questions](https://github.com/chlebik/rhcsa-practice-questions/tree/master/questions)
 * [Linux RedHat Certified Administrator Course on Udemy](https://axiell.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa-8/)
-
+* [RedHat Documentation: Chapter 24. Changing and resetting the root password](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_configuring-basic-system-settings)
