@@ -50,4 +50,3 @@ nmcli con up MY_CONNECTION connection.autoconnect yes # automatically switch to 
 ### Additional comment:
 It is possible to edit existing connection using **nmtui** tool which can be easier. 
 Also when using GUI there is also graphical interface for it.
-
