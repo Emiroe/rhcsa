@@ -15,3 +15,16 @@
 
 - Remove the 2 permanent rules added above. 
 - Switch back to the public zone as the default zone, and confirm the changes
+
+## Networking
+- Set the system hostname to server1.example.com and alias server1.
+- Restart the hostname service.
+- Make sure that the new hostname is reflected in the command prompt.
+
+## Users & Groups
+- Create the instructors group
+- Create three users (Derek, Tom, and Kenny) that belong to the instructors group.
+- Prevent Tom's user from accessing a shell, and make his account expire 10 day from now
+- Remove the users & groups created in the previous steps.
+
+## Containers
