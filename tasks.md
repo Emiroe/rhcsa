@@ -1,7 +1,23 @@
-## Emergency
+## Operations
 
 - Reset root password via Grub;
+- Install the tuned service, start it and enable it for auto-restart upon reboot. 
+- Display all available Launch the command dd if=/dev/zero of=/dev/null three times as a background job. Increase the priority of one of these ps Change the priority of the same process again, but this time use the value -15. Observe the difference. Kill all the dd processes you just startedprofiles and the current active profile.
+- Switch to one of the available profiles and confirm. 
+- Determine the recommended profile for the system and switch to it. 
+- Deactive tuning and reactivate it
+- Launch the command dd if=/dev/zero of=/dev/null three times as a background job. 
+- Increase the priority of one of these. 
+- Change the priority of the same process again, but this time use the value -15.
+- Kill all the dd processes you just started
+- Confirm no more processes are running
 
+## Deploy, Configure and Maintain Systems
+- Check if Chrony is running
+- List the available timezones
+- Set the system time zone.
+- Configure the system to use NTP
+- Confirm your changes regarding NTP and timezone.
 
 ## Firewall
 
