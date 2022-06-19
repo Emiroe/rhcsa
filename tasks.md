@@ -19,6 +19,11 @@
 - Configure the system to use NTP
 - Confirm your changes regarding NTP and timezone.
 
+- Determine if the cifs-utils package is installed and if it is available for installation. Use both DNF and RPM
+- Display its information before installing it. 
+- Install the package and display its information again.
+- Remove the package along with its dependencies and confirm the removal
+
 ## Firewall
 
 - Determine the current active zone;
